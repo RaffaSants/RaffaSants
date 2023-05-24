@@ -2,15 +2,6 @@
   <h1 align="center" font-color="blue"> Hi I'm a front end devolper </h1> 
 </header>
 <main>
-  <section style="margin: 10px">
-    <ul>
-      <li> 👨🏼‍🎓 software engineering student</li>
-      <li> 🎉 18/06/1994</li>
-      <li> 🚴🏼 sports lover</li>
-      <li> 🍕 pizza lover</li>
-      <li> ✈ available to travel</li>
-    </ul>
-  </section >
   <section style="display: flex">
     <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
     <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
