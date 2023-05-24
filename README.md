@@ -1,16 +1,37 @@
-### Hi there 👋
+<header>
+  <h1 align="center" font-color="blue"> Hi I'm a front end devolper </h1> 
+</header>
+<main>
+  <section style="margin: 10px">
+    <ul>
+      <li> 👨🏼‍🎓 software engineering student</li>
+      <li> 🎉 18/06/1994</li>
+      <li> 🚴🏼 sports lover</li>
+      <li> 🍕 pizza lover</li>
+      <li> ✈ available to travel</li>
+    </ul>
+  </section >
+  <section style="display: flex">
+    <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+    <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+    <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+    <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
+    <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  
+    <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  </section>
+  
+##
+  
+  <section>
+    <picture>
+      <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api?username=dev-Raffa&show_icons=true&theme=transparent&border_color=055fde&count_private=true&rank_icon=github" />
+    </picture>
+    <picture>
+      <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Raffa&layout=compact&theme=transparent&border_color=055fde&card_width=400" />
+    </picture> 
+  </section>
+</main>
 
-<!--
-**RaffaSants/RaffaSants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
