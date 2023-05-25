@@ -18,7 +18,7 @@
       <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api?username=dev-Raffa&show_icons=true&theme=transparent&border_color=055fde&count_private=true&rank_icon=github" />
     </picture>
     <picture>
-      <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Raffa&layout=compact&theme=transparent&border_color=055fde&card_width=350" />
+      <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Raffa&layout=compact&theme=transparent&border_color=055fde&card_width=320" />
     </picture> 
   </section>
 </main>
