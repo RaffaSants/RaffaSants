@@ -13,7 +13,7 @@
   
 ##
   
-  <section>
+  <section align="center">
     <picture>
       <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api?username=dev-Raffa&show_icons=true&theme=transparent&border_color=055fde&count_private=true&rank_icon=github" />
     </picture>
